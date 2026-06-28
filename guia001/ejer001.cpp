@@ -9,4 +9,5 @@ int main(){
     cin >> num;
     pulgada = 25.4 * num;
     cout << "Las pulgadas son " << pulgada <<endl;
+    return 0;
 }

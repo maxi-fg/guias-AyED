@@ -1,4 +1,4 @@
-/*Leer 2 valores y mostrar el mayor de ellos, si son iguales mostrar cualquiera de los dos.*/
+/*Leer 2 valores y mostrar el mayor de ellos, si son iguales mostrar cualquiera de los dos. */
 #include <iostream>
 
 using namespace std;

@@ -36,6 +36,7 @@ int main(){
             cout << "No esta dentro del rango" <<endl;
             break;
     }
+    return 0;
 }
 
 

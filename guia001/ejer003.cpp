@@ -1,5 +1,5 @@
 /*Ingresar dos valores distintos en dos Variables a y b, luego el valor ingresado en a pasarlo a b
-y el valor Ingresado en b, Pasarlo a a y mostrarlos.*/
+y el valor Ingresado en b, Pasarlo a a y mostrarlos. */
 
 #include <iostream>
 
@@ -11,4 +11,5 @@ int main (){
     cin >> a >> b;
     swap(a,b);
     cout << "Los numeros son : " << a << " y " << b <<endl;
+    return 0;
 }

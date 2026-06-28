@@ -35,4 +35,5 @@ int main(){
     }else {
         cout << "Los 3 numeros son iguales: " << num1 << endl;
     }
+    return 0;
 }

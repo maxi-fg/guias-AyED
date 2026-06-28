@@ -1,6 +1,6 @@
 /*Ingresar dos valores enteros, el primero corresponde a la cantidad de bultos en stock y el
 segundo a la cantidad de bultos que se pueden colocar en una caja. Calcule cuantas cajas
-completas se pueden llenar con los bultos disponibles y cuantos bultos sueltos quedarían.*/
+completas se pueden llenar con los bultos disponibles y cuantos bultos sueltos quedarían. */
 
 #include <iostream>
 using namespace std;

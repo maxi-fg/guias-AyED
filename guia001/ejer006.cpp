@@ -1,5 +1,5 @@
 /*Dado como dato el valor del lado de un cuadrado calcular su perímetro, su superficie, e
-informar los mismos con carteles aclaratorios.*/
+informar los mismos con carteles aclaratorios. */
 
 #include <iostream>
 using namespace std;

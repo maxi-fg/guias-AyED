@@ -1,6 +1,6 @@
 /*Ingresar tres valores enteros que representan los valores de cada lado de un triángulo.
 Determinar e informar si el triángulo es equilátero (3 lados iguales), isósceles (2 lados iguales),
-o escaleno (3 lados distinto)*/
+o escaleno (3 lados distinto) */
 
 #include <iostream>
 
